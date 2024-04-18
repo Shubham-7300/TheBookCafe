@@ -1,0 +1,98 @@
+[
+  {
+    "id":1,
+    "name":"Thriller",
+    "title":"Thriller is a genre of fiction with numerous, often overlapping, subgenres, including crime, horror, and detective fiction. Thrillers are giving their audiences  feelings of suspense, excitement, surprise, anticipation.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":2,
+    "name":"Science fiction",
+    "title":"Science fiction is deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life.",
+    "price":100,
+    "category":"SiFi",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":3,
+    "name":"Graphic novel",
+    "title":"A graphic novel is a long-form work of sequential art. The term graphic novel is often applied broadly, including fiction, non-fiction, anthologized work, though this practice is highly contested by comics scholars.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":4,
+    "name":"Biography",
+    "title":"A biography, or simply bio, is a detailed description of a person's life. It involves more than just basic facts like childhood, education, work, relationships, and death; it portrays a person's experience of these life events.",
+    "price":200,
+    "category":"Biographical",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":5,
+    "name":"Historical fiction",
+    "title":"Historical fiction is a literary genre in which a fictional plot takes place in the setting of particular real historical events.  It often makes many use of symbolism in allegory using figurative and metaphorical elements to picture a story.",
+    "price":50,
+    "category":"HiFi",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":6,
+    "name":"Cookbook",
+    "title":"A Cookbooks may specialize in a particular cuisine or category of food. Recipes in cookbooks are organized in various ways: by course, by main ingredient, by cooking technique, alphabetically, by region or country, and so on.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":7,
+    "name":"Memoir",
+    "title":"A memoir is a narrative, written from the perspective of the author, about an important part of their life. An autobiography is also written from the author’s perspective, but the narrative spans their entire life.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":8,
+    "name":"Biography",
+    "title":"A biography, or simply bio, is a detailed description of a person's life. It involves more than just basic facts like childhood, education, work, relationships, and death; it portrays a person's experience of these life events.",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":9,
+    "name":"Memoir",
+    "title":"A memoir is a narrative, written from the perspective of the author, about an important part of their life. An autobiography is also written from the author’s perspective, but the narrative spans their entire life.",
+    "price":100,
+    "category":"Memoir",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":10,
+    "name":"Thriller",
+    "title":"Thriller is a genre of fiction with numerous, often overlapping, subgenres, including crime, horror, and detective fiction. Thrillers are giving their audiences feelings of suspense, excitement, surprise, anticipation.",
+    "price":0,
+    "category":"150",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":11,
+    "name":"Historical fiction",
+    "title":"Historical fiction is a literary genre in which a fictional plot takes place in the setting of particular real historical events.  It often makes many use of symbolism in allegory using figurative and metaphorical elements to picture a story.",
+    "price":200,
+    "category":"HiFi",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":12,
+    "name":"Cookbook",
+        "title":"A Cookbooks may specialize in a particular cuisine or category of food. Recipes in cookbooks are organized in various ways: by course, by main ingredient, by cooking technique, alphabetically, by region or country, and so on.",
+    "price":200,
+    "category":"Cooking",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  }
+]
